@@ -1,0 +1,145 @@
+body{
+    
+    background-color:lightslategrey;
+    font-size: 25px;
+    color:whitesmoke;
+	
+}
+links{
+	text-align: center;
+	background: transparent;
+}
+header{
+height:80px;
+background:whitesmoke;
+border:1px solid black;
+height:2000px;
+margin:70px auto;
+color:white;
+  background-image: url('https://wallpapertag.com/wallpaper/full/6/1/9/443065-most-popular-chicago-skyline-background-2560x1600-phone.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  text-shadow: 0 0 3px #0BEACB;
+}
+h1{
+    color:black;
+    font-size:20px;
+}
+
+.dropbtn {
+    background-color: #0494aa;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+
+        .dropdown-content a:hover {
+            background-color: white;
+        }
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: black;
+}
+intro{
+	color:black;
+	text-size:25px;
+}
+right{
+	text-align:center;
+}
+p.solid {
+    border-style: solid;
+    target="_blank";
+ 
+}
+p.dotted {
+    border-style: dotted;
+    target ="_blank"
+}
+n1{
+color:black;
+text-size: 15px;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background: #cce;
+    display: inline-block;
+    margin-left: 10px;
+}
+img{
+	width: 400px;
+	height: 300px;
+	
+}
+weird_box {
+  text-shadow: 0 0 3px #0BEACB;
+}
+shadow_box {
+  width: 300px;
+  height: 100px;
+  padding: 1px;
+  background-color: grey;
+  box-shadow: 10px 10px lightblue;
+  margin: 10px;
+  border-radius: 50%;
+}
+shadow_box {
+  width: 900;
+  height: 700;
+  padding: 1px;
+  background-color: black;
+  box-shadow: 10px 10px lightblue;
+  margin: 0;
+  border-radius: 0%;
+   font-size: 20px;
+}
+shadow_box_two{
+  width: 900;
+  height: 700;
+  padding: 1px;
+  background-color: black;
+  box-shadow: 10px 10px blue;
+  margin: 0;
+  border-radius:0%;
+   font-size: 20px;
+}
+shadow_box_three{
+  width: 900;
+  height: 700;
+  padding: 1px;
+  background-color: black;
+  box-shadow: 10px 10px darkblue;
+  margin: 0;
+  border-radius: 0%;
+  font-size: 20px;
+}
